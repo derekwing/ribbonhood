@@ -1,0 +1,8 @@
+flask
+flask-cors
+yfinance
+flask-sqlalchemy
+psycopg2-binary
+python-dotenv
+flask-migrate
+SQLAlchemy
