@@ -1,6 +1,6 @@
 # Ribbonhood
 
-This is a stock trading web app built with React + Vite, Typescript, TailwindCSS, Shadcn, Flask, and PostgreSQL.
+This is a stock trading app that allows users to buy and sell stocks, and look up real-time information regarding a stock. It is built with React + Vite, Typescript, TailwindCSS, Shadcn, Flask, and PostgreSQL.
 It utilizes libraries such as D3 for data visualizations and yfinance for stock data.
 
 ## Project Setup Guide
