@@ -1,4 +1,9 @@
-# Project Setup Guide
+# Ribbonhood
+
+This is a stock trading web app built with React + Vite, Typescript, TailwindCSS, Shadcn, Flask, and PostgreSQL.
+It utilizes libraries such as D3 for data visualizations and yfinance for stock data.
+
+## Project Setup Guide
 
 This guide will help you set up both the backend and frontend of the project.
 
